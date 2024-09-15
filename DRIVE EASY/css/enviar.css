@@ -1,0 +1,79 @@
+h1{ /* dados enviados com */
+    font-size: 32px;
+    font-family: 'Roboto', sans-serif; 
+    position: absolute; 
+    left: 400px;
+    top: 100px; 
+    color: #000000;
+} /* h2 h3 e h4 e abaixo do verificado */
+h2{
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif; 
+    position: absolute;
+    left: 450px;
+    top: 450px;
+}
+h3{
+    font-family: 'Roboto', sans-serif; 
+    font-size: 18px;
+    position: absolute;
+    left:380px;
+    top: 490px;
+}
+h4{
+    font-family: 'Roboto', sans-serif; 
+    font-size: 18px;
+    position: absolute;
+    left:420px;
+    top:530px;
+}
+h5{
+    font-family: 'Roboto', sans-serif; 
+    font-size: 18px;
+    position: absolute;
+    left:100px;
+    top:58px;
+}
+header{
+    justify-content: center;
+background: black;
+width: 1300px;
+height: 76px;
+border-color: orange;
+  position: absolute;
+     left: 0px;
+    top: -1px;
+  } 
+  #logo{
+position: absolute;    
+    width: 99px;
+    height: 76px;
+    right: 1200px;
+    margin-left: 590px;
+    border-color: orange;
+  }
+  header2{
+    background: black;
+    width: 1300px;
+    height: 50px;
+    border-color: orange;
+      position: absolute;
+         left: 0px;
+        top: -1px;
+      } 
+      #seta{
+        position: absolute;
+        width: 40px;
+        height: 400px;
+        left: -560px;
+        top: -100px;
+        margin-left: 590px;
+        border-color: orange;
+      }
+      #verificado{
+        position: absolute;
+        top: -220px;
+        left: -240px;
+        overflow: hidden;
+      }
+  
