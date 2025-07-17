@@ -12,7 +12,7 @@ Este projeto teve o intuito de criar uma **loja de aluguel de carros de luxo ace
 - Ícones e imagens de carros
 
 ---
-Projeto com conjunto com 
+Projeto com conjunto com :
 
 ---
 
